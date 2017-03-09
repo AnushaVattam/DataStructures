@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1445491326 source:c:\users\anusha\desktop\ds projects\assignments\bucket1\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+

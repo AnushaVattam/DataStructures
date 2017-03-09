@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1448001860 source:c:\users\anusha\desktop\courses\ds projects\assignments\bst\bst.cpp
+	<iostream>
+	<cstdlib>
+

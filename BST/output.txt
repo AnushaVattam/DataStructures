@@ -1,0 +1,187 @@
+Understanding Binary Search Trees.
+
+Type 1 to insert an integer
+     2 to delete an integer
+     3 to search for an integer in the tree
+     4 to print the tree
+     5 to free the nodes of the tree
+     6 to print this menu of tree commands
+ or  any other number to exit.
+Command> 4
+
+The tree is empty. There is nothing to print.
+
+Type 1 to 5 for a command on a binary search tree,
+6 for the menu of commands, or any other number to exit.
+Command> 1
+Enter a number: 20
+
+The key 20 was successfully inserted.
+
+Type 1 to 5 for a command on a binary search tree,
+6 for the menu of commands, or any other number to exit.
+Command> 1
+Enter a number: 30
+
+The key 30 was successfully inserted.
+
+Type 1 to 5 for a command on a binary search tree,
+6 for the menu of commands, or any other number to exit.
+Command> 1
+Enter a number: 23
+
+The key 23 was successfully inserted.
+
+Type 1 to 5 for a command on a binary search tree,
+6 for the menu of commands, or any other number to exit.
+Command> 4
+20  23  30
+Type 1 to 5 for a command on a binary search tree,
+6 for the menu of commands, or any other number to exit.
+Command> 1
+Enter a number: 8
+
+The key 8 was successfully inserted.
+
+Type 1 to 5 for a command on a binary search tree,
+6 for the menu of commands, or any other number to exit.
+Command> 1
+Enter a number: 1
+
+The key 1 was successfully inserted.
+
+Type 1 to 5 for a command on a binary search tree,
+6 for the menu of commands, or any other number to exit.
+Command> 1
+Enter a number: 26
+
+The key 26 was successfully inserted.
+
+Type 1 to 5 for a command on a binary search tree,
+6 for the menu of commands, or any other number to exit.
+Command> 4
+1  8  20  23  26  30
+Type 1 to 5 for a command on a binary search tree,
+6 for the menu of commands, or any other number to exit.
+Command> 1
+Enter a number: 15
+
+The key 15 was successfully inserted.
+
+Type 1 to 5 for a command on a binary search tree,
+6 for the menu of commands, or any other number to exit.
+Command> 1
+Enter a number: 1
+
+The key 1 already exists in the tree. No insertion.
+
+Type 1 to 5 for a command on a binary search tree,
+6 for the menu of commands, or any other number to exit.
+Command> 1
+Enter a number: 40
+
+The key 40 was successfully inserted.
+
+Type 1 to 5 for a command on a binary search tree,
+6 for the menu of commands, or any other number to exit.
+Command> 1
+Enter a number: 4
+
+The key 4 was successfully inserted.
+
+Type 1 to 5 for a command on a binary search tree,
+6 for the menu of commands, or any other number to exit.
+Command> 1
+Enter a number: 28
+
+The key 28 was successfully inserted.
+
+Type 1 to 5 for a command on a binary search tree,
+6 for the menu of commands, or any other number to exit.
+Command> 1
+Enter a number: 2
+
+The key 2 was successfully inserted.
+
+Type 1 to 5 for a command on a binary search tree,
+6 for the menu of commands, or any other number to exit.
+Command> 1
+Enter a number: 25
+
+The key 25 was successfully inserted.
+
+Type 1 to 5 for a command on a binary search tree,
+6 for the menu of commands, or any other number to exit.
+Command> 4
+1  2  4  8  15  20  23  25  26  28  30  40
+Type 1 to 5 for a command on a binary search tree,
+6 for the menu of commands, or any other number to exit.
+Command> 3
+Enter a number: 15
+the searching key is found and key ==15
+The number was found in the tree.
+
+Type 1 to 5 for a command on a binary search tree,
+6 for the menu of commands, or any other number to exit.
+Command> 3
+Enter a number: 25
+the searching key is found and key ==25
+The number was found in the tree.
+
+Type 1 to 5 for a command on a binary search tree,
+6 for the menu of commands, or any other number to exit.
+Command> 3
+Enter a number: 35
+The number was not found.
+
+Type 1 to 5 for a command on a binary search tree,
+6 for the menu of commands, or any other number to exit.
+Command> 2
+Enter a number: 15
+found value 15
+all null
+right delete
+The  Deleted  key ==15
+
+Type 1 to 5 for a command on a binary search tree,
+6 for the menu of commands, or any other number to exit.
+Command> 2
+Enter a number: 1
+found value 1
+The  Deleted  key ==1
+
+Type 1 to 5 for a command on a binary search tree,
+6 for the menu of commands, or any other number to exit.
+Command> 2
+Enter a number: 32
+Cannot delete 32.Value is not found
+
+Type 1 to 5 for a command on a binary search tree,
+6 for the menu of commands, or any other number to exit.
+Command> 2
+Enter a number: 20
+found value 20
+The  Deleted  key ==20
+
+Type 1 to 5 for a command on a binary search tree,
+6 for the menu of commands, or any other number to exit.
+Command> 4
+2  4  8  23  25  26  28  30  40
+Type 1 to 5 for a command on a binary search tree,
+6 for the menu of commands, or any other number to exit.
+Command> 5
+
+Type 1 to 5 for a command on a binary search tree,
+6 for the menu of commands, or any other number to exit.
+Command> 4
+
+The tree is empty. There is nothing to print.
+
+Type 1 to 5 for a command on a binary search tree,
+6 for the menu of commands, or any other number to exit.
+Command> 7
+
+Program completed.
+
+Process returned 0 (0x0)   execution time : 191.146 s
+Press any key to continue.
